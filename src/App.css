@@ -1,0 +1,18 @@
+.cont{
+  padding:10rem;
+}
+
+.basic .MuiTableCell-root {
+  border-bottom:none !important;
+  border-left: 1px solid #000 ;
+ 
+}
+.basic-first .MuiTableCell-root {
+  border-bottom:none !important;
+  border-left: none !important;
+ 
+}
+.table-title:hover{
+  color:blue;
+  cursor:pointer;
+}
